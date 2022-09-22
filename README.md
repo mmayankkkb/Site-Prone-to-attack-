@@ -150,4 +150,4 @@ No of connections of the same source (1) and the destination (3) address in in 1
 The name of each attack category. In this data set , nine categories e.g. Fuzzers, Analysis, Backdoors, DoS Exploits, Generic, Reconnaissance, Shellcode and Worms
 
 
-Total **48** details is required 
+Total **48** details are required 
