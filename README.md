@@ -7,11 +7,11 @@ This project is currently in work.
 It is a machine learning model that is intended to predict whether a site is prone to a perticular type of attack or not with high accuracy.
 Make sure your that yourdataset and jupyter is in same folder.
 
--Dataset Used to train model-UNSW-NB15 
+-Dataset that will Used to train model-UNSW-NB15 
 link-https://cloudstor.aarnet.edu.au/plus/index.php/s/2DhnLGDdEECo4ys?path=%2FUNSW-NB15%20-%20CSV%20Files%2Fa%20part%20of%20training%20and%20testing%20set
 
 
-Details require for prediction:
+**Details require for prediction:**
 
 Source IP address
 
